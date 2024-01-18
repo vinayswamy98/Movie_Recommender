@@ -1,0 +1,8 @@
+filepath:
+  'data_path' : 'D:\ML_Projects\NLP_Projects\Moview_Recommendation\Data'
+  'Scripts_path' : 'D:\ML_Projects\NLP_Projects\Moview_Recommendation\Scripts'
+  'Results_path' : 'D:\ML_Projects\NLP_Projects\Moview_Recommendation\Results'
+filenames:
+  'movies_df' : 'movies.csv'
+  'rating_df' : 'ratings.csv'
+
